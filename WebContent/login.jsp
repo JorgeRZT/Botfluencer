@@ -8,8 +8,8 @@
 </head>
 <body>
 	<form action="login" method="POST">
-		<input type="text" name="username" placeholder="Username" value="TestBotfluencer"/>
-		<input type="password" name="password" placeholder="Password" value="botfluencer"/>
+		<input type="text" name="username" placeholder="Username" value=""/>
+		<input type="password" name="password" placeholder="Password" value=""/>
 		<input type="submit"  value="Acceder"/>
 	</form>
 </body>
